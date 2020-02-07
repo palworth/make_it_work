@@ -241,13 +241,32 @@
       "/Users/piercealworth/Turing/2module/challenges/make_it_work/config/routes.rb": {
         "lines": [
           1,
+          1,
           null,
+          1,
+          1,
           null
         ]
       },
       "/Users/piercealworth/Turing/2module/challenges/make_it_work/app/helpers/application_helper.rb": {
         "lines": [
           1,
+          null
+        ]
+      },
+      "/Users/piercealworth/Turing/2module/challenges/make_it_work/spec/models/challenge_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          2,
+          null,
+          null,
+          1,
+          2,
+          null,
           null
         ]
       },
@@ -344,8 +363,37 @@
           1,
           null
         ]
+      },
+      "/Users/piercealworth/Turing/2module/challenges/make_it_work/app/controllers/projects_controller.rb": {
+        "lines": [
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/piercealworth/Turing/2module/challenges/make_it_work/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          null
+        ]
       }
     },
-    "timestamp": 1581092726
+    "timestamp": 1581096791
   }
 }
