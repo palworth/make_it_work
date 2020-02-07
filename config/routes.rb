@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-  get '/challenges', to: 'challenges#index'
+  get "/contestants", to: "contestants#index"
 
   get '/projects', to: 'projects#index'
   get '/projects/:id', to: 'projects#show'

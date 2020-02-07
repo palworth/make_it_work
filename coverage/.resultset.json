@@ -254,6 +254,30 @@
           null
         ]
       },
+      "/Users/piercealworth/Turing/2module/challenges/make_it_work/spec/features/projects/user_can_see_single_project_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
       "/Users/piercealworth/Turing/2module/challenges/make_it_work/spec/models/challenge_spec.rb": {
         "lines": [
           1,
@@ -364,6 +388,21 @@
           null
         ]
       },
+      "/Users/piercealworth/Turing/2module/challenges/make_it_work/app/controllers/contestants_controller.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/piercealworth/Turing/2module/challenges/make_it_work/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
       "/Users/piercealworth/Turing/2module/challenges/make_it_work/app/controllers/projects_controller.rb": {
         "lines": [
           1,
@@ -386,14 +425,8 @@
           null,
           null
         ]
-      },
-      "/Users/piercealworth/Turing/2module/challenges/make_it_work/app/controllers/application_controller.rb": {
-        "lines": [
-          1,
-          null
-        ]
       }
     },
-    "timestamp": 1581096791
+    "timestamp": 1581098211
   }
 }
